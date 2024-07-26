@@ -1,0 +1,45 @@
+Vanishing Point (vx, vy): (0, 75)
+Reference Lamp Post (x0, y0): (100, -100)
+Reference Lamp Height (h): 40
+Projected Distance (d): 0
+Adjusted Distance (L - d): 201.55644370746373
+H = 175.0, tau = 100.00000000000001
+Angle phi (pi - theta): 0.9332475286562039
+Calculated Lamp Post Height (h'): 129.62962962962965
+--------------------
+Vanishing Point (vx, vy): (0, 75)
+Reference Lamp Post (x0, y0): (100, -100)
+Reference Lamp Height (h): 40
+Projected Distance (d): 0
+Adjusted Distance (L - d): 201.55644370746373
+H = 175.0, tau = 100.00000000000001
+Angle phi (pi - theta): 0.9332475286562039
+Calculated Lamp Post Height (h'): 129.62962962962965
+--------------------
+Vanishing Point (vx, vy): (0, 75)
+Reference Lamp Post (x0, y0): (100, -100)
+Reference Lamp Height (h): 40
+Projected Distance (d): 0
+Adjusted Distance (L - d): 201.55644370746373
+H = 175.0, tau = 100.00000000000001
+Angle phi (pi - theta): 0.9332475286562039
+Calculated Lamp Post Height (h'): 129.62962962962965
+--------------------
+Vanishing Point (vx, vy): (0, 75)
+Reference Lamp Post (x0, y0): (100, -100)
+Reference Lamp Height (h): 40
+Projected Distance (d): 0
+Adjusted Distance (L - d): 201.55644370746373
+H = 175.0, tau = 100.00000000000001
+Angle phi (pi - theta): 0.9332475286562039
+Calculated Lamp Post Height (h'): 129.62962962962965
+--------------------
+Vanishing Point (vx, vy): (0, 75)
+Reference Lamp Post (x0, y0): (100, -100)
+Reference Lamp Height (h): 40
+Projected Distance (d): 0
+Adjusted Distance (L - d): 201.55644370746373
+H = 175.0, tau = 100.00000000000001
+Angle phi (pi - theta): 0.9332475286562039
+Calculated Lamp Post Height (h'): 129.6296296296
+--------------------
